@@ -13,10 +13,10 @@ A ideia foi criar um sistema simples onde é possível cadastrar clientes em det
 
 ## Funcionalidades
 
-Realizar agendamentos
-Consultar agendamentos
-Cancelar agendamentos
-Validação para evitar horários duplicados
+- Realizar agendamentos
+- Consultar agendamentos
+- Cancelar agendamentos
+- Validação para evitar horários duplicados
 
 ## Como pensei no projeto
 
