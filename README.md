@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido para praticar Python e banco de dados através de 
 
 A ideia foi criar um sistema simples onde é possível cadastrar clientes em determinados horários, consultar os agendamentos já realizados e cancelar agendamentos quando necessário.
 
-## Tecnologias utilizadas
+## Tecnologias
 
 - Python
 - SQLite
