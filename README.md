@@ -8,8 +8,8 @@ A ideia foi criar um sistema simples onde é possível cadastrar clientes em det
 
 ## Tecnologias utilizadas
 
-Python
-SQLite
+- Python
+- SQLite
 
 ## Funcionalidades
 
